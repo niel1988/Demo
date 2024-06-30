@@ -1,1 +1,2 @@
 Change1 i Test1
+Change2 in branch1
